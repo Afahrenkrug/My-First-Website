@@ -1,6 +1,6 @@
 .blue-text{
   color: blue;
-  font-family: Times New Roman;
+  font-family: calibri;
   font-size: 30px;
   font-weight: 3000;
 }
@@ -10,21 +10,23 @@
   color: black;
   font-weight: 15;
 }
-.green-background{
-  background-color: green;
-}
 .gray-background{
-  background-color: gray;
+  background-color: green;
 }
 .header-text{
   font-size: 20px;
-  font-family: Times New Roman;
-  color: white;
-  font-weight: 20;
+  font-family: calibri;
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
 }
 .bold-text{
   color: black;
   font-weight: bold;
   font-family: calibri;
   font-size: 18px;
+  text-decoration: underline;
+}
+.background-color{
+  background-color: gray;
 }
